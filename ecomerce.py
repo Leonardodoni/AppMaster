@@ -1,2 +1,1 @@
-print('le')
-e=a
+print('gift')
